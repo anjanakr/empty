@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="k" language="en" table="sn_empty_k">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>k</label>
+            <language>en</language>
+            <name>sn_empty_k</name>
+            <plural>ks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-07 21:30:26</sys_created_on>
+            <sys_id>3d7703725f073300f81c2e921f466662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>k</sys_name>
+            <sys_package display_value="empty" source="sn_empty">dee9e13e5f033300f81c2e921f466652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="empty">dee9e13e5f033300f81c2e921f466652</sys_scope>
+            <sys_update_name>sys_documentation_sn_empty_k__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-07 21:30:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
